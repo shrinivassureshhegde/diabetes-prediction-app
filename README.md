@@ -15,4 +15,4 @@ This project predicts diabetes risk using Machine Learning and provides an inter
 - Streamlit
 
 ## Live App
-[Click Here](https://your-app-name.streamlit.app)
+[Click Here](https://ai-diabetes-analyzer.streamlit.app/)
