@@ -16,3 +16,8 @@ This project predicts diabetes risk using Machine Learning and provides an inter
 
 ## Live App
 [Click Here](https://ai-diabetes-analyzer.streamlit.app/)
+
+---
+
+## Copyright
+© 2026 Shrinivas Suresh Hegde. All rights reserved.
